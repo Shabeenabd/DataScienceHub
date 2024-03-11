@@ -3,7 +3,7 @@
 Do transformations for getting better predictions of profit and
 make a table containing R^2 value for each prepared model.
 
-## Dataset Description:  
+ Dataset Description:  <br>              
 
 R&D Spend -- Research and devolop spend in the past few years
 Administration -- spend on administration in the past few years
