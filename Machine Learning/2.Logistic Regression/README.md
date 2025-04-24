@@ -1,5 +1,6 @@
-# Predicting Binary Target Class
-**Building logistic model to predict the customer would deposit or not based on the custmer features**  
+# Logistic Regression
+## Problem Statements
+Building logistic model to predict the customer would deposit or not based on the custmer features  
 
 **class 0 - deposit subscripted.**   
 **class 1 - deposit not subscripted.**  
