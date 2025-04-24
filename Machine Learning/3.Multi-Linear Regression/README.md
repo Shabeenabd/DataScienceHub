@@ -1,9 +1,10 @@
-# 1 - Startup Data
-### **Prepare a prediction model for profit of 50_startups data.**
+## Problem Statement
+#### Problem-1 Startup Data
+Prepare a prediction model for profit of 50 startups data.   
 Do transformations for getting better predictions of profit and
 make a table containing R^2 value for each prepared model.
 
-## Dataset Description:  <br>              
+**Dataset Description:**                 
 
 * R&D Spend -- Research and devolop spend in the past few years   
 
@@ -16,13 +17,10 @@ make a table containing R^2 value for each prepared model.
 * Profit  -- profit of each state in the past few years
 
 ----------------------------------------------------------
-# 2 - Corolla Data
-## **Consider only the below columns and prepare a prediction model for predicting Price.**
+# Problem-2 - Corolla Data
+Consider only the below columns and prepare a prediction model for predicting Price.
 
-## Corolla<-Corolla[c("Price","Age_08_04","KM","HP","cc","Doors","Gears","Quarterly_Tax","Weight")]
-
- 
-## Dataset Description:
+ **Dataset Description:**
 
 * Model -- model of the car
 * Price  -- Offer Price in EUROs	
